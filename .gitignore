@@ -162,3 +162,5 @@ ENV/
 
 .floo
 .flooignore
+
+*.csv
